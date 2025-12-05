@@ -1,1 +1,1 @@
-# MallaQu-micayFarmacia-UC
+# MallaQuimicayFarmacia-UC
